@@ -24,5 +24,3 @@ HTML5, CSS3, Bootstrap 5, JavaScript ES6+
 ## Run
 Open `index.html` in a browser. Internet is recommended for Bootstrap, Bootstrap Icons and Google Fonts loaded from CDNs.
 
-## Before submission
-Replace the placeholder email, GitHub and LinkedIn links with your real links.
